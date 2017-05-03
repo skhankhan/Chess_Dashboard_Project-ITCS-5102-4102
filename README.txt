@@ -1,3 +1,11 @@
+# ------------------------------------------------------------------------------------------------------------------------------------------------------#
+#                                                                                                                                                   	#
+#   Chess Dashboard Project                                                                                                                    		#
+#                                                                                                                                                  	#
+#   By Saad Khan, Scott Shelley, Lamonte Carter                                                                                                         #
+#                                                                                                                                                  	#
+# ------------------------------------------------------------------------------------------------------------------------------------------------------#
+
 The purpose of this project is to provide visual tools for data analysis to those seeking to understand more about who is involved in the “Chess” social media scene. Chess is a game played around the world. For marketing purposes, community organization, and pure data science, it is important to understand where the hotspots for chess activity are.
 
 For this code to work correctly with kibana/ElasticSearch follow these instructions:s
